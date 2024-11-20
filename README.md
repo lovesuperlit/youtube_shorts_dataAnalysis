@@ -37,7 +37,19 @@
 </br>
 
 ###  4) Github - 주제가 비슷한 다른 사람의 Github 참고
-  
+
+https://github.com/CactusKK/Trend24   -  SNS/쇼츠와 같은 다양한 미디어를 통해 최신 이슈와 트렌드를 수집하고, 이를 바탕으로 최신의 이슈 및 트렌드를 분석 & 제공하는 서비
+
+https://github.com/eia51/R-youtube-analysis   -  YouTube 키워드 영향력 분석 및 통계 시각화
+
+https://github.com/capstone-nineteen   -  영상 크리에이터를 위한, AI 기반 시청자 반응 분석 및 숏폼 자동 생성 서비스
+
+</br>
+
+###  5) 관련 자료
+
+240626_국내외 숏폼 이용 현황(한국저작권위원회 심의산업통계팀).pdf
+
 
 
 
