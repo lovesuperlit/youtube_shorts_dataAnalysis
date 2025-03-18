@@ -49,9 +49,20 @@ https://github.com/capstone-nineteen   -  영상 크리에이터를 위한, AI �
 
 ###  5) 관련 자료
 
-240626_국내외 숏폼 이용 현황(한국저작권위원회 심의산업통계팀).pdf
+숏폼 동영상 콘텐츠의 유형 연구_이진
+https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10477606
 
-빅카인즈를 활용한 ‘숏폼’ 트렌드 분석.pdf
+숏폼 콘텐츠 트렌드_김현지, 오세림, 조수빈
+https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09366154
+
+숏폼 콘텐츠(틱톡 등) 관련 조사_마크로밀엠브레인, 트렌드모니터
+https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11612182
+
+구글 트렌드를 이용한 기업의 매출액 및 주가 예측_이병욱, 김준호, 우종필
+https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09015246
+
+빅카인즈를 활용한 숏폼 트렌드 분석_나규민, 오세이
+https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11819279
 
 
 
